@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ethical Hacker | Penetration Tester <br>Red Team  <br>Full Stack Developer
+Ethical Hacker | Penetration Tester | RedTeam <br>Full Stack Developer  <br> CEO & Founder of NerdNest
 
 
 ## 🌐 Socials:
