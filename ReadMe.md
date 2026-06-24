@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ethical Hacker | Penetration Tester | RedTeam <br>Full Stack Developer  <br> CEO & Founder at Mpeko ICT Solutions | NerdNest
+Founder & CEO of Mpeko ICT Solutions and NerdNest | Ethical Hacker | Pentester | Security Analyst | Cybersecurity Researcher | Developer
 
 
 ## 🌐 Socials:
