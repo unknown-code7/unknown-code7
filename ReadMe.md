@@ -1,5 +1,5 @@
 # 💫 About Me:
-Founder & CEO of Mpeko ICT Solutions and NerdNest | Ethical Hacker | Pentester | Security Analyst | Cybersecurity Researcher | Developer
+Founder & CEO of Mpeko ICT Solutions and NerdNest | Ethical Hacker | Pentester | Security Analyst | IT and Cybersecurity Researcher | Network Analyst
 
 
 ## 🌐 Socials:
